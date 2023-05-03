@@ -1,0 +1,18 @@
+{
+  "name": "ynjdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.40",
+    "fs": "^0.0.1-security",
+    "jsdom": "^21.1.1",
+    "shuffle-seed": "^1.1.6",
+    "superagent": "^8.0.9"
+  }
+}
